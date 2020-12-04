@@ -68,21 +68,20 @@ body {
     }
 }
 
-.modal .modal-header h4 {
-    font-weight: bolder;
-}
-
-.modal .modal-header {
-    background-color: $background-dark;
-    color: floralwhite;
-}
-
-.modal .modal-header .close {
-    color: floralwhite;
-}
-
-.modal .modal-body {
-    background-color: $background-pale;
+.modal {
+    .modal-header {
+        background-color: $background-dark;
+        color: floralwhite;
+        h4 {
+            font-weight: bolder;  
+        } 
+        .close {
+            color: floralwhite;
+        }
+    }
+    .modal-body {
+        background-color: $background-pale;
+    }
 }
 
 #carouselButton {
@@ -95,3 +94,4 @@ body {
 #loginId {
     text-decoration: none;
 }
+
