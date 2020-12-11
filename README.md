@@ -38,7 +38,7 @@ Project developed as an evaluation of modules of the course 'Front-End Web UI Fr
 - Develop task automation using NPM Scripts;
 - Formulate task automation using Task runners like Grunt and Gulp
 
-## Tecnologías
+## Technologies
 
 - NPM 6.14.5
 - Bootstrap 4.5.3
