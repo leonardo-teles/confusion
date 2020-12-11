@@ -46,6 +46,6 @@ Project developed as an evaluation of modules of the course 'Front-End Web UI Fr
 - Grunt 1.3.0
 - Gulp 4.0.2
 
-<a href="https://www.coursera.org/account/accomplishments/verify/45J3FCRKRRGR" target="_blank">Certificate</a>
+<a href="https://www.coursera.org/account/accomplishments/verify/EYLRNECM4GPB" target="_blank">Certificate</a>
 
 
